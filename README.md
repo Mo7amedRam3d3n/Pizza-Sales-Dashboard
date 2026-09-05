@@ -1,4 +1,4 @@
-#  Pizza Sales Dashboard ñ Excel Pivot Table Analysis
+#   Sales Dashboard ‚Äì Excel Pivot Table Analysis
 An end-to-end sales analysis project built entirely in Microsoft Excel, using **Pivot Tables**, **Pivot Charts**, and an **interactive Dashboard** to explore pizza sales performance across categories, sizes, and time.
 ---
 ##  Project Overview
@@ -19,7 +19,7 @@ quantity	Number of pizzas ordered
 order_date	Date when the order was placed
 order_time	Time when the order was placed
 unit_price	Price of one pizza
-total_price	Total price of the order (quantity ◊ unit_price)
+total_price	Total price of the order (quantity √ó unit_price)
 pizza_size	Pizza size: S, M, L, or XL
 pizza_category	Pizza category: Classic, Chicken, Supreme, or Veggie
 pizza_ingredients	List of ingredients used in the pizza
@@ -42,13 +42,13 @@ pizza_name	Full descriptive name of the pizza
 
 2. Building Pivot Tables
 Multiple pivot tables were created to break down the data from different angles:
-- **Quantity by Category** ó total pizzas sold per category (Classic, Veggie, Supreme, Chicken)
-- **Quantity by Size** ó total pizzas sold per size (S, M, L, XL)
-- **Total Price by Category & Size** ó revenue breakdown
-- **Monthly Sales** ó total revenue and quantity sold per month (Jan to Dec)
-- **Percent of Category** ó each category's share of total quantity sold
-- **Tax Summary** ó total price, 14% tax, and price after tax per category
-- **Summary KPIs** ó Total Customers, Total Sales, Total Quantity Sold
+- **Quantity by Category** ‚Äî total pizzas sold per category (Classic, Veggie, Supreme, Chicken)
+- **Quantity by Size** ‚Äî total pizzas sold per size (S, M, L, XL)
+- **Total Price by Category & Size** ‚Äî revenue breakdown
+- **Monthly Sales** ‚Äî total revenue and quantity sold per month (Jan to Dec)
+- **Percent of Category** ‚Äî each category's share of total quantity sold
+- **Tax Summary** ‚Äî total price, 14% tax, and price after tax per category
+- **Summary KPIs** ‚Äî Total Customers, Total Sales, Total Quantity Sold
 
 3. Building the Dashboard
 Using the pivot tables above, an interactive one-page dashboard was designed with:
@@ -57,7 +57,7 @@ Using the pivot tables above, an interactive one-page dashboard was designed wit
 - **Bar Chart**: Quantity by Size
 - **Pie Chart**: Percent of Category
 - **Line Chart**: Monthly Sales trend
-- **Slicers**: to filter by ìpizza_categoryî and ìpizza_sizeî
+- **Slicers**: to filter by ‚Äúpizza_category‚Äù and ‚Äúpizza_size‚Äù
 - A link/button to navigate to the source pivot tables
 ---
 ## Key Insights
