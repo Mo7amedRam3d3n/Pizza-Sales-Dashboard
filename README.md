@@ -1,4 +1,4 @@
-#   Sales Dashboard – Excel Pivot Table Analysis
+# Pizza Sales Dashboard – Excel Pivot Table Analysis
 An end-to-end sales analysis project built entirely in Microsoft Excel, using **Pivot Tables**, **Pivot Charts**, and an **interactive Dashboard** to explore pizza sales performance across categories, sizes, and time.
 ---
 ##  Project Overview
